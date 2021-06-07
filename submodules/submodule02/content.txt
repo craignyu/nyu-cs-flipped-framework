@@ -1,0 +1,9 @@
+<!-- render an HTML horizontal line at the beginning of each submodule -->
+<hr>
+
+<!-- submodule title -->
+<h3>Submodule02 Title Goes Here</h3>
+
+<p>
+	The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. The lazy fox jumped over the curious cat. 
+</p>

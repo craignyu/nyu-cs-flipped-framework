@@ -1,0 +1,2 @@
+<li class="nav-header">Self-Paced Learning Modules (edit 'menu.txt' to change this)</li>
+<li><a href="module_demo.php">Demo Module</a></li>

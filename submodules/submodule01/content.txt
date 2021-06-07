@@ -1,0 +1,44 @@
+<!-- render an HTML horizontal line at the beginning of each submodule -->
+<hr>
+
+<!-- submodule title -->
+<h3>Submodule01 Title Goes Here</h3>
+
+<!-- you may use any number of paragraphs to display textual data 
+	 note that line breaks are not rendered in HTML - to force a line break either start a new paragraph tag (<p></p>)
+	 or use a stand-alone break tag (<br>)
+-->
+<p>
+	This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. 
+</p>
+
+<!-- in-line (non-breaking) formatting options -->
+<p>
+	Some in-line (non-breaking) formatting options: 
+	<strong>This sentence is bolded.</strong>
+	<em>This sentence is italicized.</em>
+	<code>This is a single line of code.</code>
+	<a href="submodules/submodule01/booleans_sample_code1.txt" target="_blank">Hyperlink to a file.</a>
+</p>
+
+<!-- 'alert' boxes to draw the user's attention to this paragraph -->
+<div class="alert alert-info">Alert box (info)</div>
+<div class="alert alert-danger">Alert box (danger)</div>
+<div class="alert alert-warning">Alert box (warning)</div>
+
+<!-- pre-formatted (multi-line) code display -->
+<pre>x = 5
+y = 10
+for i in range(y):
+	print(i, x, y)
+</pre>
+
+<!-- images: note the use of the 'alt' tag to provide an accessible text version of the image -->
+<p>
+	<img 
+		alt="Alternate text for this image" 
+		src="submodules/submodule01/wwh_entrance.jpg" width="100%">
+</p>
+	
+<!-- YouTube video (code copied from the YouTube page for this video under the 'share' icon) -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QH2-TGUlwu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

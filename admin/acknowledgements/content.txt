@@ -1,0 +1,7 @@
+<hr>
+<h2>Acknowledgments</h2>
+
+<p>These interactive modules, developed by <a href="http://cs.nyu.edu/~acase">Andrew Case</a>, <a href="http://cs.nyu.edu/~deena/">Deena Engel</a>, and <a href="http://cs.nyu.edu/~kapp/">Craig Kapp</a>, are a product of the eLearning Pilot Project at NYU's <a href="http://cims.nyu.edu">Courant Institute</a>.  The support of Danna Kelmer (our student worker) as well as the CS Department Administration have been invaluable in helping make this possible.</p>
+              
+<p>The documentation for this project is provided using the <a href="licensing.php">GNU Free Documentation License</a></p>
+ 

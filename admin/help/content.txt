@@ -1,0 +1,4 @@
+<hr>
+              <h2>Help using these modules</h2>
+              <p>These modules are designed to help you learn the material in the most conducive way for each student's best individual learning methods. These modules provide you with video lectures, simple and easily accessible definitions, real-time examples, and programming challenges to help you determine your level of understanding.
+              </p>

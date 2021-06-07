@@ -1,0 +1,67 @@
+=====================================================================
+Directory and file layout:
+=====================================================================
+admin - list of non-technical submodules that are related to administering
+        the class.  Things like the class syllabus and schedule.  You will
+        probably want to update some of these every semester.
+submodules - technical submodules for students to work through each week
+menu.txt - sidebar list of modules
+
+=====================================================================
+Customizing the system:
+=====================================================================
+
+--------------------
+Modules/Submodules:
+--------------------
+This system is composed of modules and submodules.
+
+Each page of the site is considered a module.  A module contains a list of
+submodules to include.  Each module adds the necessary submodules and inserts 
+the content into the main body of the page.
+
+--------------------
+Creating a module
+--------------------
+- Copy the template module "module_demo.php" to a new module name.
+- Update your new module with whatever submodules and text you want it to use.
+- Add your new module link to the "menu.txt" list.
+
+--------------------
+Changing submodules in a module
+--------------------
+Open up the associated module##.php file.  Update the $submodules array to
+include a list of submodules to include.  Also update the $submodules_text
+array to include human-readable labels for each module.
+
+--------------------
+Creating a submodule
+--------------------
+- Duplicate the "submodules/submodule01" directory
+- A submodule is comprised of a single file named 'content.txt' which contains
+  all HTML content that you want to display to your students for a particular
+  topic
+- You can also include images and other forms of media in a submodule directory
+
+--------------------
+Creating a video
+--------------------
+- You can use any video recording & editing program that you wish to use
+- We recommend hosting your videos on YouTube under an unlisted channel
+- Ensure that your video is set up with closed captions (YouTube will create
+  basic captions for you automatically)
+- Once a video has been uploaded to YouTube you can copy the "embed code" 
+  (found under the 'share' menu) into your 'content.txt'' file for your module.
+
+
+=====================================================================
+Licensing/Copyright:
+=====================================================================
+Documentation is licensed under the GNU Free Documentation 1.3 (https://www.gnu.org/copyleft/fdl.html).
+
+Different software packages involved use different licenses:
+skulpt: MIT or PSFLv2 (http://opensource.org/licenses/PythonSoftFoundation.php)
+codemirror: MIT (http://codemirror.net/LICENSE)
+pythontutor: BSD
+bootstrap: Apache 2
+

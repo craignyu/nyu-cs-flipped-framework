@@ -1,0 +1,5 @@
+<hr>
+<h2>Course Tutors</h2>
+
+<p>The CS department manages tutors that have office hours throughout the week. For information regarding the tutoring schedule please refer to the <a href="https://cs.nyu.edu/home/undergrad/tutoring.html" target="_blank">CS Department Tutoring Website</a>. Please note that the tutor's role is to help support your learning - they will not do your homework for you!</p>
+
