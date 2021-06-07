@@ -53,6 +53,14 @@ Creating a video
 - Once a video has been uploaded to YouTube you can copy the "embed code" 
   (found under the 'share' menu) into your 'content.txt'' file for your module.
 
+--------------------
+Deploying
+--------------------
+- Transfer all files to your web server
+- Ensure that the file permissions on all files are set to 755
+- For hosting on a shared server you may need to set the '_data' directory and
+  its contents to 777 (to handle student feedback submissions)
+
 
 =====================================================================
 Licensing/Copyright:
